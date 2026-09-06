@@ -1,4 +1,4 @@
-# addie
+# phil.ai
 
 Google Apps Script for cold job-hunting emails. You add leads in a Sheet, pick a first-email template (or generate one with Groq), and the script schedules sends, then follows up twice if nobody replies.
 
